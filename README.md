@@ -1,24 +1,42 @@
-# README
+# Micro-Reddit
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This Micro-Reddit project is a ruby on rails based application that showcases the benefits of ActiveRecord. It consisted of creating the User, Post and Comment models and design their associations to learn the fundamentals of ActiveRecord on RoR.
 
-Things you may want to cover:
+# Live Version
+[Demo link](https://pure-badlands-55605.herokuapp.com/)
 
-* Ruby version
+# Requirements
 
-* System dependencies
+- Ruby > 2.5
+- Ruby on Rails > 5.2
+- Rubocop
 
-* Configuration
+## Built With
 
-* Database creation
+- Ruby
+- Ruby on Rails
 
-* Database initialization
+## Author
 
-* How to run the test suite
+👤 **Diego Antonio Reyes Coronado**
 
-* Services (job queues, cache servers, search engines, etc.)
+- Github: [@xtrmdarc](https://github.com/xtrmdarc)
+- Twitter: [@diegoreyesco](https://twitter.com/DiegoAn91629127)
+- Linkedin: [diegoreyesco](https://www.linkedin.com/in/diego-reyes-coronado-7a7189b7/)
 
-* Deployment instructions
 
-* ...
+👤 **Brenda Yucra**
+
+- Github: [@bren2102](https://github.com/bren2102) 
+- Twitter: [@BrendaYucra2](https://twitter.com/BrendaYucra)
+- Linkedin: [Brenda Yucra](https://www.linkedin.com/in/brenda-yucra-51980681/)
+
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
