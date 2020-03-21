@@ -2,9 +2,6 @@
 
 This Micro-Reddit project is a ruby on rails based application that showcases the benefits of ActiveRecord. It consisted of creating the User, Post and Comment models and design their associations to learn the fundamentals of ActiveRecord on RoR.
 
-# Live Version
-[Demo link](https://pure-badlands-55605.herokuapp.com/)
-
 # Requirements
 
 - Ruby > 2.5
