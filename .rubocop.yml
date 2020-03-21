@@ -8,6 +8,7 @@ AllCops:
     - "README.md"
     - "node_modules/**/*"
     - "Gemfile"
+    - ".stickler.yml"
 
   DisplayCopNames: true
 
